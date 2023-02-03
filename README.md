@@ -6,10 +6,10 @@ This experience created with 8th Wall gives an augmented reality experience that
 <img width="1200" alt="AR Shop" src="https://user-images.githubusercontent.com/32990384/186056478-da68c353-037c-4a0f-bb1b-e9f13e10f64c.png">
 
 <h2>The Problem</h2>
-Due to the way businesses display their articles (2D format) many details are lost.
+Due to new technologies it has became harder to get the attention not only from younger generations but also older ones.
 
 <h2>The Challenge</h2>
-Combine a non-invasive 2D UI and connect it to 3D models in an AR Environment.
+Develope a modern way to capture today's world attention to provide it with information in a new AR Format. 
 
 <h2>The Solution</h2>
 
@@ -28,12 +28,11 @@ https://user-images.githubusercontent.com/32990384/216501190-54389134-3f61-4ead-
   <li>8th Wall Cloud Editor Studio</li>
   <li>Scripted in Javascript
   <li>AR represention with A-Frame
-  <li>Interfacing through SwiperJS
 </ul>
 
 <h2>The Results</h2>
-Ability to navigate through a list of items (3D Models) with information attached (2D Info Slides).
+Ability to display information in a new original and dynamic way.
 
 <h2>The Opportunity</h2>
 
-Give a more immersive, interactive, and enticing experience to customers to increase the buying desire.
+Give a more immersive, interactive, and enticing experience for people to learn and retain information in a more efficient way.
