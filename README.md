@@ -3,7 +3,7 @@
 
 This experience created with 8th Wall gives an augmented reality experience that offers a 360-Video Portal which dynamically adapt to the time of day, providing a continuously evolving and immersive environment.
 
-<img width="1200" alt="AR Shop" src="https://user-images.githubusercontent.com/32990384/186056478-da68c353-037c-4a0f-bb1b-e9f13e10f64c.png">
+<img width="251" alt="Captura de Pantalla 2023-02-02 a la(s) 8 59 35 p m" src="https://user-images.githubusercontent.com/32990384/216502263-12096e61-7757-4909-b06a-73fb29a70e3b.png">
 
 <h2>The Problem</h2>
 Due to new technologies it has became harder to get the attention not only from younger generations but also older ones.
